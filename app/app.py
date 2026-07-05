@@ -118,7 +118,7 @@ with col4:
 # Historical Data
 # ----------------------------
 with st.expander("📄 View Historical Data"):
-    st.dataframe(df.tail(20), use_container_width=True)
+    st.dataframe(df.tail(20),width="stretch")
 
 # ----------------------------
 # Plotly Chart
@@ -180,7 +180,7 @@ fig.update_layout(
 
 fig.update_xaxes(rangeslider_visible=True)
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 # ----------------------------
 # Moving Average Explanation

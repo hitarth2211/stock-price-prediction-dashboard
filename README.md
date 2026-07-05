@@ -1,10 +1,17 @@
 # 📈 Stock Price Prediction Dashboard
 
+# 📈 Stock Price Prediction Dashboard
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![Scikit-Learn](https://img.shields.io/badge/ML-Linear%20Regression-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A Machine Learning-powered web application that predicts the next day's stock closing price using historical stock market data.
 
 ## 🚀 Live Demo
 
-(Add your Streamlit link here after deployment)
+https://stock-price-prediction-dashboard-dxg4kx3hpe6yxjdavpuy88.streamlit.app/
 
 ---
 
