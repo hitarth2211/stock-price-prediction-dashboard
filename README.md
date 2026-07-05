@@ -158,6 +158,6 @@ This project is for educational purposes only and should not be considered finan
 ![Chart](assets/chart.png)
 
 
-## Dashboard
+## Prediction
 
 ![Prediction](assets/prediction.png)
